@@ -10,6 +10,6 @@ def fibonacci(n):
     
     
     
-# Say you wanna have the function give ten numbers
-# just call it
+# Say you wanna have the function output ten numbers
+# just call the function and give the desired output as an argument
 fibonacci(10) # Add you have the numbers
