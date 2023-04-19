@@ -51,11 +51,9 @@ def start_game():
     print("Oh no!, not a valid number. Here is another free try for you...")
     print(err)
     
-if __name__ == '__main__":
+if __name__ == '__main__": # call the function to start the game
     start_game
-
-
-            
+         
             
             
             
