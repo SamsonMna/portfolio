@@ -38,5 +38,3 @@ im = ImageOps.posterize(im, 0) # change the zero to the level of posterity you w
 im.save('path to file location')
 
 
-
-
