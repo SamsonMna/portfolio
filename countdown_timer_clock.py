@@ -15,5 +15,4 @@ if__name__ == '__main__':
     ⌚ = int(input("Enter a time in seconds: "))
     contdown(⌚)
     
-    
-    
+        
