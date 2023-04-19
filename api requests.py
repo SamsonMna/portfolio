@@ -13,3 +13,4 @@ if response.status_code == 200:
     data = response.json()
     with open('response.json', 'w') as f:
         json.dump(data, f)
+# Read the API documentation to know the kind of response to expect since not all APIs return values in a key-value pair response
