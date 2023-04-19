@@ -51,17 +51,6 @@ print(q.peek()) # return the first item in the queue
 
 
 
-
-
-
-
-
-
-
-
-
-
-
         
         
         
