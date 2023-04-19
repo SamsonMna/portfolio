@@ -9,7 +9,7 @@ def sort_merge(list_a):
         right = list_a[mid_point:] # Divides the list given into two section at the mid-point 
         
         sort_merge(left)
-        sort_merge(right)# Then make two recursive calls sort_merge "The function above, one with the left half of the list and one with the right half of the list
+        sort_merge(right)# Then make two recursive calls sort_merge. The function above, one with the left half of the list and one with the right half of the list
         
         x = y = z = 0
                 
