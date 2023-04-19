@@ -20,7 +20,7 @@ def rolling():
     max_value = 6
     roll_again = 'y'
     while roll_again.lower() == 'yes' or roll_again.lower() == 'y':
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system('clear')
         number = num_die()
 
         if number == '2' or number == 'two':
