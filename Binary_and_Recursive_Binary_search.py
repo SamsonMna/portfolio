@@ -37,12 +37,4 @@ if __name__ == '__main__':
     print("Binary Search:", bin_search(list_a, 4))
     print("Recursive Binary Search:", bin_search_recurs, 0, len(list_a), -1, 4))
             
-            
-            
-            
-            
-            
-            
-            
-            
-    
+     
