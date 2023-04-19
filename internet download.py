@@ -6,5 +6,5 @@ def Loader(url, download):
         part_size=10000,
         resumable=True)
     pyloader.download(url, output)
-Loader('input url link to your download wish', 'input the expected output')
+Loader('input url link to your download wish', 'input the desired output')
 Loader('youtube.com', 'video.mkv')
