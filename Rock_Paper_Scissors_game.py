@@ -12,7 +12,7 @@ def play_status():
       if response.lower() = 'yes':
         return True
       else:
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system('clear')
         print('Thank you')
         # i.e., if you respond with a no, the game clears the screen and exits the screen.
         exit()
